@@ -1,4 +1,117 @@
 ﻿define({ entries : {
+    "10.1145/3183440.3183468": {
+        "address": "New York, NY, USA",
+        "author": "Segura, Sergio and Zhou, Zhi Quan",
+        "booktitle": "Proceedings of the 40th International Conference on Software Engineering: Companion Proceeedings",
+        "doi": "10.1145/3183440.3183468",
+        "isbn": "9781450356633",
+        "keywords": "metamorphic testing, tutorial",
+        "location": "Gothenburg, Sweden",
+        "numpages": "2",
+        "pages": "538\u2013539",
+        "publisher": "Association for Computing Machinery",
+        "series": "ICSE '18",
+        "title": "Metamorphic testing 20 years later: a hands-on introduction",
+        "type": "inproceedings",
+        "url": "https://doi.org/10.1145/3183440.3183468",
+        "year": "2018"
+    },
+    "10196883": {
+        "author": "Zhang, Yifan and Towey, Dave and Pike, Matthew",
+        "booktitle": "2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC)",
+        "doi": "10.1109/COMPSAC57700.2023.00275",
+        "keywords": "Software testing;Scalability;Manuals;Computer architecture;Chatbots;Software;Safety;Autonomous driving system (ADS);metamorphic testing (MT);metamorphic relation (MR);oracle problem;ChatGPT;natural language processing (NLP);large language model (LLM)",
+        "number": "",
+        "pages": "1780-1785",
+        "title": "Automated Metamorphic-Relation Generation with ChatGPT: An Experience Report",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2023"
+    },
+    "10633406": {
+        "author": "Zhang, Yifan and Towey, Dave and Pike, Matthew and Zhou, Zhi Quan and Chen, Tsong Yueh",
+        "booktitle": "2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC)",
+        "doi": "10.1109/COMPSAC61105.2024.00029",
+        "keywords": "Surveys;Systematics;Source coding;Multimedia systems;Instruments;Open Educational Resources;Software;Metamorphic testing;open educational resource;autonomous driving system;metamorphic relation;driving scenarios",
+        "number": "",
+        "pages": "138-147",
+        "title": "Enhancing ADS Testing: An Open Educational Resource for Metamorphic Testing",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2024"
+    },
+    "6613484": {
+        "author": "Liu, Huai and Kuo, Fei-Ching and Towey, Dave and Chen, Tsong Yueh",
+        "doi": "10.1109/TSE.2013.46",
+        "journal": "IEEE Transactions on Software Engineering",
+        "keywords": "Computer crashes;Software;Educational institutions;Software testing;Training;Benchmark testing;Software testing;test oracle;oracle problem;metamorphic testing;metamorphic relation",
+        "number": "1",
+        "pages": "4-22",
+        "title": "How Effectively Does Metamorphic Testing Alleviate the Oracle Problem?",
+        "type": "ARTICLE",
+        "volume": "40",
+        "year": "2014"
+    },
+    "6698899": {
+        "author": "Kanewala, Upulee and Bieman, James M.",
+        "booktitle": "2013 IEEE 24th International Symposium on Software Reliability Engineering (ISSRE)",
+        "doi": "10.1109/ISSRE.2013.6698899",
+        "keywords": "Testing;Arrays;Predictive models;Feature extraction;Decision trees;Support vector machines;Software;Software testing;Metamorphic testing;Metamorphic relation;Machine learning;Mutation analysis;Scientific software testing;Test oracles;Decision trees;Support vector machines",
+        "number": "",
+        "pages": "1-10",
+        "title": "Using machine learning techniques to detect metamorphic relations for programs without test oracles",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2013"
+    },
+    "7422146": {
+        "author": "Segura, Sergio and Fraser, Gordon and Sanchez, Ana B. and Ruiz-Cort\u00e9s, Antonio",
+        "doi": "10.1109/TSE.2016.2532875",
+        "journal": "IEEE Transactions on Software Engineering",
+        "keywords": "Testing;Search engines;Google;Libraries;Concrete;Distance measurement;Web services;Metamorphic testing;oracle problem;survey",
+        "number": "9",
+        "pages": "805-824",
+        "title": "A Survey on Metamorphic Testing",
+        "type": "ARTICLE",
+        "volume": "42",
+        "year": "2016"
+    },
+    "7490306": {
+        "author": "Chen, Tsong Yueh and Kuo, Fei-Ching and Ma, Wenjuan and Susilo, Willy and Towey, Dave and Voas, Jeffrey and Zhou, Zhi Quan",
+        "doi": "10.1109/MC.2016.176",
+        "journal": "Computer",
+        "keywords": "Testing;Computer bugs;Computer security;Program processors;metamorphic testing;cybersecurity;software testing;oracle problem;cyberthreats;software vulnerability;obfuscator testing;Web testing;Heartbleed bug;logic error;fuzzing",
+        "number": "6",
+        "pages": "48-55",
+        "title": "Metamorphic Testing for Cybersecurity",
+        "type": "ARTICLE",
+        "volume": "49",
+        "year": "2016"
+    },
+    "8493260": {
+        "author": "Zhou, Zhi Quan and Sun, Liqun and Chen, Tsong Yueh and Towey, Dave",
+        "doi": "10.1109/TSE.2018.2876433",
+        "journal": "IEEE Transactions on Software Engineering",
+        "keywords": "Software testing;Information technology;Electronic mail;Software systems;Software maintenance;Metamorphic exploration;symmetry;metamorphic testing;metamorphic relation;metamorphic relation pattern;metamorphic relation input pattern;change direction;oracle problem;user experience;user countermeasure;software validation",
+        "number": "10",
+        "pages": "1120-1154",
+        "title": "Metamorphic Relations for Enhancing System Understanding and Use",
+        "type": "ARTICLE",
+        "volume": "46",
+        "year": "2020"
+    },
+    "8573811": {
+        "author": "Segura, Sergio and Towey, Dave and Zhou, Zhi Quan and Chen, Tsong Yueh",
+        "doi": "10.1109/MS.2018.2875968",
+        "journal": "IEEE Software",
+        "keywords": "Search engines;Programming;Australia;Program processors;Software testing;Software testing;metamorphic testing;oracle problem;test case generation",
+        "number": "3",
+        "pages": "46-53",
+        "title": "Metamorphic Testing: Testing the Untestable",
+        "type": "ARTICLE",
+        "volume": "37",
+        "year": "2020"
+    },
     "chenCheung1998": {
         "author": "T Y Chen and S C Cheung and S M Yiu",
         "journal": "Dept. Comput. Sci., The Hong Kong Univ. Sci. Technol., Hong Kong, Tech. Rep. HKUST-CS98-01",
@@ -10,37 +123,6 @@
         "volume": "",
         "year": "1998"
     },
-    "chenKuo2016": {
-        "author": "T Y Chen and F Kuo and W Ma and W Susilo and D Towey and J Voas and Z Zhou",
-        "journal": "Computer",
-        "number": "6",
-        "pages": "48--55",
-        "title": "Metamorphic {Testing} for {Cybersecurity}",
-        "type": "article",
-        "url": "https://doi.org/10.1109/MC.2016.176",
-        "volume": "49",
-        "year": "2016"
-    },
-    "chenKuo2018": {
-        "author": "T Y Chen and F C Kuo and H Liu and P L Poon and D Towey and T H Tse and Z Q Zhou",
-        "journal": "ACM Computing Surveys (CSUR)",
-        "number": "1",
-        "pages": "1--27",
-        "title": "Metamorphic testing: {A} review of challenges and opportunities",
-        "type": "article",
-        "url": "https://doi.org/10.1109/TSE.2018.2876433",
-        "volume": "51",
-        "year": "2018"
-    },
-    "kanewalaBieman2013": {
-        "author": "U Kanewala and J M Bieman",
-        "booktitle": "2013 IEEE 24th International Symposium on Software Reliability Engineering (ISSRE)",
-        "pages": "1--10",
-        "title": "Using machine learning techniques to detect metamorphic relations for programs without test oracles",
-        "type": "conference",
-        "url": "https://doi.org/10.1109/ISSRE.2013.6698899",
-        "year": "2013"
-    },
     "liLiu2024": {
         "archiveprefix": "arXiv",
         "author": "Rui Li and Huai Liu and Pak-Lok Poon and Dave Towey and Chang-Ai Sun and Zheng Zheng and Zhi Quan Zhou and Tsong Yueh Chen",
@@ -51,76 +133,16 @@
         "url": "https://arxiv.org/abs/2406.05397",
         "year": "2024"
     },
-    "liuKuo2013": {
-        "author": "H Liu and F C Kuo and D Towey and T Y Chen",
-        "issue": "1",
-        "journal": "IEEE Transactions on Software Engineering",
-        "pages": "4-22",
-        "title": "How effectively does metamorphic testing alleviate the oracle problem?",
-        "type": "article",
-        "url": "https://doi.org/10.1109/TSE.2013.46",
-        "volume": "40",
-        "year": "2013"
-    },
-    "seguraFraser2016": {
-        "author": "S Segura and G Fraser and A B Sanches and A Ruiz-Cort\u00e9s",
-        "journal": "IEEE Transactions on software engineering",
-        "number": "9",
-        "pages": "805--824",
-        "title": "A survey on metamorphic testing",
-        "type": "article",
-        "url": "https://doi.org/10.1109/TSE.2016.2532875",
-        "volume": "42",
-        "year": "2016"
-    },
-    "seguraTowey2018": {
-        "author": "S Segura and D Towey and Z Q Zhou and T Y Chen",
-        "issue": "3",
-        "journal": "IEEE Software",
-        "pages": "46--53",
-        "title": "Metamorphic testing: Testing the untestable",
-        "type": "article",
-        "url": "https://doi.org/10.1109/MS.2018.2875968",
-        "volume": "37",
-        "year": "2018"
-    },
-    "seguraZhou2018": {
-        "author": "S Segura and Z Q Zhou",
-        "booktitle": "Proceedings of the 40th International Conference on Software Engineering: {Companion} Proceeedings",
-        "doi": "https://doi.org/10.1145/3183440.3183468",
-        "pages": "538-539",
-        "title": "Metamorphic testing 20 years later: {A} hands-on introduction",
-        "type": "inproceedings",
-        "year": "2018"
-    },
     "yakushevaKhritankov2024": {
         "author": "S F Yakusheva and A S Khirtankov",
         "issue": "2",
         "journal": "Program Systems: Theory and Applications",
+        "keywords": "Metamorphic Testing;Metamorphic Relation;Software Testing;Test Oracle Problem",
         "pages": "37--86",
         "title": "A systematic review of methods for deriving metamorphic relations",
         "type": "article",
         "url": "https://doi.org/10.25209/2079-3316-2024-15-2-37-86",
         "volume": "15",
-        "year": "2024"
-    },
-    "zhangTowey2023": {
-        "author": "Y Zhang and D Towey and M Pike and J C Han and G Zhou and C Yin and Q Wang and C Xie",
-        "journal": "2023 IEEE/ACM 8th International Workshop on Metamorphic Testing (MET)",
-        "number": "",
-        "pages": "9--16",
-        "title": "Metamorphic testing harness for the {Baidu} {Apollo} perception-camera module",
-        "type": "article",
-        "url": "https://doi.org/10.1109/COMPSAC57700.2023.00275",
-        "volume": "",
-        "year": "2023"
-    },
-    "zhangTowey2024ADS": {
-        "author": "Y Zhang and D Towey and M Pike and Z Q Zhou and T Y Chen",
-        "booktitle": "2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC)",
-        "pages": "138--147",
-        "title": "Enhancing {ADS} {Testing}: {An} {Open} {Educational} {Resource} for {Metamorphic} {Testing}",
-        "type": "conference",
         "year": "2024"
     },
     "zhangTowey2024Steer": {
@@ -139,16 +161,5 @@
         "type": "inproceedings",
         "url": "https://doi.org/10.1145/3679006.3685069",
         "year": "2024"
-    },
-    "zhouSun2018": {
-        "author": "Z Q Zhou and L Sun and T Y Chen and D Towey",
-        "issue": "10",
-        "journal": "IEEE Transactions on Software Engineering",
-        "pages": "1120--1154",
-        "title": "Metamorphic relations for enhancing system understanding and use",
-        "type": "article",
-        "url": "https://doi.org/10.1109/TSE.2018.2876433",
-        "volume": "46",
-        "year": "2018"
     }
 }});
