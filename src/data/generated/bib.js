@@ -145,6 +145,18 @@
         "volume": "15",
         "year": "2024"
     },
+    "zhangTowey2023": {
+        "author": "Zhang, Yifan and Towey, Dave and Pike, Matthew and Han, Jia Cheng and Zhou, George and Yin, Chenghao and Wang, Qian and Xie, Chen",
+        "booktitle": "2023 IEEE/ACM 8th International Workshop on Metamorphic Testing (MET)",
+        "doi": "10.1109/MET59151.2023.00009",
+        "keywords": "Productivity;Industries;Conferences;Web and internet services;Brightness;Complexity theory;Autonomous vehicles;Autonomous driving system (ADS);metamorphic testing (MT);metamorphic relation (MR);oracle problem;automated testing",
+        "number": "",
+        "pages": "9-16",
+        "title": "Metamorphic Testing Harness for the Baidu Apollo Perception-Camera Module",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2023"
+    },
     "zhangTowey2024Steer": {
         "address": "New York, NY, USA",
         "author": "Zhang, Yifan and Towey, Dave and Pike, Matthew and Qiu, Rui and Jaya, Axel Tan and Huey, Sze and Zhang, Xinyi and Wu, Yuan",
