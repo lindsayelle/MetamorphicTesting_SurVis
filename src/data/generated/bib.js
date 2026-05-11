@@ -165,32 +165,17 @@
         "year": "2024"
     },
     "zhangTowey2023": {
-        "author": "Zhang, Yifan and Towey, Dave and Pike, Matthew and Han, Jia Cheng and Zhou, George and Yin, Chenghao and Wang, Qian and Xie, Chen",
+        "author": "Zhang, Yifan and Towey, Dave and Pike, Matthew and Han, Jia Cheng and Zhou, George and Yin, Chenghao and Wang, Qian and Xie, Chen Segura, Sergio and Parejo, Jos\u00e9 A. and Troya, Javier and Ruiz-Cort\u00e9s, Antonio Zhou, Zhi Quan and Xiang, Shaowen and Chen, Tsong Yueh Chen, Tsong and Poon, Pak-Lok and Xie, Xiaoyuan",
         "booktitle": "2023 IEEE/ACM 8th International Workshop on Metamorphic Testing (MET)",
-        "doi": "10.1109/MET59151.2023.00009",
-        "keywords": "Productivity;Industries;Conferences;Web and internet services;Brightness;Complexity theory;Autonomous vehicles;Autonomous driving system (ADS);metamorphic testing (MT);metamorphic relation (MR);oracle problem;automated testing",
-        "number": "",
-        "pages": "9-16",
-        "title": "Metamorphic Testing Harness for the Baidu Apollo Perception-Camera Module",
+        "doi": "10.1109/MET59151.2023.00009 @ARTICLE{seguraParejo2018, 10.1109/TSE.2017.2764464 @ARTICLE{zhouXiang2016, 10.1109/TSE.2015.2478001 @article{article, 10.1016/j.jss.2015.07.037",
+        "journal": "IEEE Transactions on Software Engineering IEEE Transactions on Software Engineering Journal of Systems and Software",
+        "keywords": "Productivity;Industries;Conferences;Web and internet services;Brightness;Complexity theory;Autonomous vehicles;Autonomous driving system (ADS);metamorphic testing (MT);metamorphic relation (MR);oracle problem;automated testing Testing;YouTube;Web services;Companies;Standards;Manuals;Indexes;Metamorphic testing;REST;RESTful Web services;web API Search engines;Testing;Web pages;Google;Software algorithms;Software quality;Software quality;verification;validation;quality assessment;oracle problem;lack of system specification;metamorphic testing;user-oriented testing;search engine;Software quality;verification;validation;quality assessment;oracle problem;lack of system specification;metamorphic testing;user-oriented testing;search engine",
+        "month": "07",
+        "number": " 11 3",
+        "pages": "9-16 1083-1099 264-284 177-190",
+        "title": "Metamorphic Testing Harness for the Baidu Apollo Perception-Camera Module Metamorphic Testing of RESTful Web APIs Metamorphic Testing for Software Quality Assessment: A Study of Search Engines METRIC: METamorphic Relation Identification based on the Category-choice framework",
         "type": "INPROCEEDINGS",
-        "volume": "",
-        "year": "2023"
-    },
-    "zhangTowey2024Steer": {
-        "address": "New York, NY, USA",
-        "author": "Zhang, Yifan and Towey, Dave and Pike, Matthew and Qiu, Rui and Jaya, Axel Tan and Huey, Sze and Zhang, Xinyi and Wu, Yuan",
-        "booktitle": "Proceedings of the 9th ACM International Workshop on Metamorphic Testing",
-        "doi": "10.1145/3679006.3685069",
-        "isbn": "9798400711176",
-        "keywords": "Metamorphic testing (MT), metamorphic exploration (ME), software engineering (SE), students as partners (SaP), team personality, team productivity",
-        "location": "Vienna, Austria",
-        "numpages": "8",
-        "pages": "18\u201325",
-        "publisher": "Association for Computing Machinery",
-        "series": "MET 2024",
-        "title": "Metamorphic Testing of a Steer-by-Wire System: An Intercultural Students-as-Partners Collaboration Experience",
-        "type": "inproceedings",
-        "url": "https://doi.org/10.1145/3679006.3685069",
-        "year": "2024"
+        "volume": " 44 42 116",
+        "year": "2023 2018 2016 2016"
     }
 }});
