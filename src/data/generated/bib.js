@@ -1,4 +1,23 @@
 ﻿define({ entries : {
+    "10.1145/3143561": {
+        "address": "New York, NY, USA",
+        "articleno": "4",
+        "author": "Chen, Tsong Yueh and Kuo, Fei-Ching and Liu, Huai and Poon, Pak-Lok and Towey, Dave and Tse, T. H. and Zhou, Zhi Quan",
+        "doi": "10.1145/3143561",
+        "issn": "0360-0300",
+        "issue_date": "January 2019",
+        "journal": "ACM Comput. Surv.",
+        "keywords": "test case generation, oracle problem, metamorphic relation, Metamorphic testing",
+        "month": "jan,",
+        "number": "1",
+        "numpages": "27",
+        "publisher": "Association for Computing Machinery",
+        "title": "Metamorphic Testing: A Review of Challenges and Opportunities",
+        "type": "article",
+        "url": "https://doi.org/10.1145/3143561",
+        "volume": "51",
+        "year": "2018"
+    },
     "10.1145/3183440.3183468": {
         "address": "New York, NY, USA",
         "author": "Segura, Sergio and Zhou, Zhi Quan",
@@ -50,7 +69,7 @@
         "title": "How Effectively Does Metamorphic Testing Alleviate the Oracle Problem?",
         "type": "ARTICLE",
         "volume": "40",
-        "year": "2014"
+        "year": "2013"
     },
     "6698899": {
         "author": "Kanewala, Upulee and Bieman, James M.",
@@ -98,7 +117,7 @@
         "title": "Metamorphic Relations for Enhancing System Understanding and Use",
         "type": "ARTICLE",
         "volume": "46",
-        "year": "2020"
+        "year": "2018"
     },
     "8573811": {
         "author": "Segura, Sergio and Towey, Dave and Zhou, Zhi Quan and Chen, Tsong Yueh",
@@ -110,7 +129,7 @@
         "title": "Metamorphic Testing: Testing the Untestable",
         "type": "ARTICLE",
         "volume": "37",
-        "year": "2020"
+        "year": "2018"
     },
     "chenCheung1998": {
         "author": "T Y Chen and S C Cheung and S M Yiu",
